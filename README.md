@@ -11,5 +11,9 @@ Datasets: [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html), [MNIST](http:
 # How to to run the code ?
 
 1- Make sure you have the datasets in your directory. <br />
-2- Download the scripts.<br />
-3- When use it, be aware of change the paths in scripts.<br />
+2- Download the script null-layer.<br />
+3- Change the paths in scripts.<br />
+4- Choose the dataset.<br />
+5- Set up the proportions on datasets.<br />
+6- Pick up the apropriate layer in script named layers.<br />
+
