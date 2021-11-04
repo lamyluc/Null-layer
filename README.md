@@ -5,4 +5,4 @@ Three different networks, four datasets, five activation functions and three typ
 
 Initializations: Glorot, He and Narrow-normal; <br />
 Activation functions: Exponential Linear Unit (ELU), Rectified Linear Unit (ReLU), Leaky Rectified Linear Unit (LReLU), Clipped Rectified Linear Unit (CReLU) and Tanh; three Architectures: AlexNet, VGG19 and a three convolutional layer architecture; <br />
-Datasets. <br />
+Datasets. Cifar-10 <https://www.cs.toronto.edu/~kriz/cifar.html>, [http://yann.lecun.com/exdb/mnist/], [https://www.kaggle.com/alxmamaev/flowers-recognition] and [https://www.kaggle.com/sshikamaru/fruit-recognition]<br />
